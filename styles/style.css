@@ -112,6 +112,10 @@ main #banner .banner-content .banner-content-btn{
   border: none;
 }
 
+.banner-content-btn:hover{
+  cursor: pointer;
+}
+
 main #banner .banner-image{
   border-radius: 50%;
   width: 100%;
